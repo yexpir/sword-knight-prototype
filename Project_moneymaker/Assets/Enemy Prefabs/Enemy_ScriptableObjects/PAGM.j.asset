@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d088ee44448d4234ba5b1bdda5ca30bb, type: 3}
+  m_Name: PAGM.j
+  m_EditorClassIdentifier: 
+  base_EnemyName: PAGM.j
+  enemyHP: 2
+  enemyType: 1
+  image: {fileID: 21300000, guid: b0751d5c3f0740d4396b87c440b66e43, type: 3}

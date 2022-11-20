@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: c6a81126ac6f8ad4686755549383b7a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PAGMd_animWalk_0
+  - first:
+      213: 21300002
+    second: PAGMd_animWalk_1
+  - first:
+      213: 21300004
+    second: PAGMd_animWalk_2
+  - first:
+      213: 21300006
+    second: PAGMd_animWalk_3
+  - first:
+      213: 21300008
+    second: PAGMd_animWalk_4
+  - first:
+      213: 21300010
+    second: PAGMd_animWalk_5
+  - first:
+      213: 21300012
+    second: PAGMd_animWalk_6
+  - first:
+      213: 21300014
+    second: PAGMd_animWalk_7
+  - first:
+      213: 21300016
+    second: PAGMd_animWalk_8
+  - first:
+      213: 21300018
+    second: PAGMd_animWalk_9
+  - first:
+      213: 21300020
+    second: PAGMd_animWalk_10
+  - first:
+      213: 21300022
+    second: PAGMd_animWalk_11
+  - first:
+      213: 21300024
+    second: PAGMd_animWalk_12
+  - first:
+      213: 21300026
+    second: PAGMd_animWalk_13
+  - first:
+      213: 21300028
+    second: PAGMd_animWalk_14
+  - first:
+      213: 21300030
+    second: PAGMd_animWalk_15
+  - first:
+      213: 21300032
+    second: PAGMd_animWalk_16
+  - first:
+      213: 21300034
+    second: PAGMd_animWalk_17
+  - first:
+      213: 21300036
+    second: PAGMd_animWalk_18
+  - first:
+      213: 21300038
+    second: PAGMd_animWalk_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PAGMd_animWalk_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 540
+        width: 180
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c2c990b31a8924da54d556e1e6fe8b
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAGMd_animWalk_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 540
+        width: 170
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d71e56f58226143a166a4a216369e3
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAGMd_animWalk_2
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 537
+        width: 158
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9f9a779c3ba2c41a554a91e97b7722
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAGMd_animWalk_3
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 534
+        width: 148
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc9aeb31795efa4a8482d07d0bfb63f
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAGMd_animWalk_4
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 531
+        width: 132
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5da6ba3952b2740ae938756142db16
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAGMd_animWalk_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 346
+        width: 129
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851bac8c67e76a046a9b297565f71a25
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAGMd_animWalk_6
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 344
+        width: 129
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9556c38fb9b80574fbc193158c4fcff1
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAGMd_animWalk_7
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 344
+        width: 127
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ead5250c2385f4cb38b07a6fbf1b5c
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAGMd_animWalk_8
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 344
+        width: 127
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c104d50cc940f4d94d95dec5701e49
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAGMd_animWalk_9
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 345
+        width: 130
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2b8ceda59644c408fc557bf5bd44e8
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAGMd_animWalk_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 166
+        width: 132
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b14f6359f0f97449e844b5642ec83b
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAGMd_animWalk_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 171
+        width: 148
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16607463c26d5b54a95dd41071063024
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAGMd_animWalk_12
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 174
+        width: 158
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fdd489015318f4c942abdb3e8a4fa1
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAGMd_animWalk_13
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 177
+        width: 171
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675df8245fa066d42b403b6b82b48b55
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAGMd_animWalk_14
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 180
+        width: 180
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab8023cc3046124babf797e7772bb89
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAGMd_animWalk_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 220
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750285b5bf31c1a43ae3b4c56deca020
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAGMd_animWalk_16
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 18
+        width: 300
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0e805f2921d394da9ae36a83085f75
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAGMd_animWalk_17
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 25
+        width: 366
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d990378921dc4346aa953743d2db235
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAGMd_animWalk_18
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 18
+        width: 300
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7856449e6afab48a0616654ef58938
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAGMd_animWalk_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 8
+        width: 220
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ceb76fbbb480fe46811442734746b14
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9e2f1a0acf08d4c4483a464313d796f2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PAGMd_animWalk_9: 21300018
+      PAGMd_animWalk_0: 21300000
+      PAGMd_animWalk_7: 21300014
+      PAGMd_animWalk_5: 21300010
+      PAGMd_animWalk_13: 21300026
+      PAGMd_animWalk_1: 21300002
+      PAGMd_animWalk_14: 21300028
+      PAGMd_animWalk_10: 21300020
+      PAGMd_animWalk_16: 21300032
+      PAGMd_animWalk_12: 21300024
+      PAGMd_animWalk_15: 21300030
+      PAGMd_animWalk_19: 21300038
+      PAGMd_animWalk_4: 21300008
+      PAGMd_animWalk_3: 21300006
+      PAGMd_animWalk_11: 21300022
+      PAGMd_animWalk_17: 21300034
+      PAGMd_animWalk_2: 21300004
+      PAGMd_animWalk_6: 21300012
+      PAGMd_animWalk_8: 21300016
+      PAGMd_animWalk_18: 21300036
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
